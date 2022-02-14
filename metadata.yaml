@@ -1,0 +1,30 @@
+_repo: A-Preliminary-Dissertation-on-the-Mechanisms-of-the-Heavens_67386
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Somerville, Mary
+    alias: Somerville, Mary Fairfax
+    birthdate: 1780
+    deathdate: 1872
+    gutenberg_agent_id: '32884'
+    url: http://www.gutenberg.org/2009/agents/32884
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Somerville
+description: ''
+gutenberg_issued: '2022-02-12'
+identifiers:
+  gutenberg: '67386'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/012309532
+pgterms:marc905: 20220212053532somerville
+pgterms:marc906: '1832'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: United States :Carey & Lea,1832.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Preliminary Dissertation on the Mechanisms of the Heavens
+url: http://www.gutenberg.org/ebooks/67386
