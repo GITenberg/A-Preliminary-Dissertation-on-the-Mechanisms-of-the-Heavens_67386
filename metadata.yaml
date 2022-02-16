@@ -1,5 +1,8 @@
 _repo: A-Preliminary-Dissertation-on-the-Mechanisms-of-the-Heavens_67386
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67386-h/images/dissertation_cover.jpg
 creator:
   author:
     agent_name: Somerville, Mary
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32884
     wikipedia: http://en.wikipedia.org/wiki/Mary_Somerville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67386#A-Preliminary-Dissertation-on-the-Mechanisms-of-the-Heavens
 gutenberg_issued: '2022-02-12'
 identifiers:
   gutenberg: '67386'
